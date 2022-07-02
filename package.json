@@ -1,6 +1,6 @@
 {
   "name": "aws-video-transcoding",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Transcode AWS S3  video files with Node.js and FFmpeg",
   "main": "index.js",
   "scripts": {
